@@ -19,15 +19,11 @@
 | Project | What it does |
 |---------|-------------|
 | [**MultiScholaR**](https://github.com/APAF-bioinformatics/MultiScholaR) | End-to-end multi-omics analysis pipeline in R — making best-practice integrative analysis accessible |
-| [**go-claude-go**](<redcated> | Agentic systems framework |
+| [**go-claude-go**](https://github.com/BucketChemist/go-claude-go) | Agentic systems framework |
 | **██████** | Something brewing — stay tuned |
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BucketChemist&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BucketChemist&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BucketChemist&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
