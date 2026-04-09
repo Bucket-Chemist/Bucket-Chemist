@@ -30,7 +30,6 @@
   <a href="https://www.researchgate.net/profile/William-Klare"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
 </p>
 
-Scholar
 <p align="center">
   <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="./figs/scholar_badges/citations.svg" alt="Citations" /></a>
   <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="./figs/scholar_badges/h_index.svg" alt="h-index" /></a>
