@@ -23,7 +23,3 @@
 | **██████** | A versatile, consumer-grade AI OS - building in stealth | ![stealth](https://img.shields.io/badge/version-stealth-black?style=flat-square) | ![stealth](https://img.shields.io/badge/status-stealth-black?style=flat-square) |
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BucketChemist&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
