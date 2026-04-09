@@ -24,5 +24,3 @@
 
 ---
 
-
-![Citations](./figs/citations.svg)
