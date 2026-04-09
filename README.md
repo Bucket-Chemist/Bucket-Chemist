@@ -24,3 +24,13 @@
 
 ---
 
+Scholar
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="./figs/scholar_badges/citations.svg" alt="Citations" /></a>
+  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="./figs/scholar_badges/h_index.svg" alt="h-index" /></a>
+  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="./figs/scholar_badges/i10_index.svg" alt="i10-index" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BucketChemist&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
