@@ -23,3 +23,6 @@
 | **██████** | A versatile, consumer-grade AI OS - building in stealth | ![stealth](https://img.shields.io/badge/version-stealth-black?style=flat-square) | ![stealth](https://img.shields.io/badge/status-stealth-black?style=flat-square) |
 
 ---
+
+
+![Citations](./figs/citations.svg)
