@@ -10,7 +10,7 @@
 
 🤖 **Agentic Systems** — building tools and harnesses that let models do the heavy lifting
 
-🛠️ `Python` · `PyTorch` · `R` · `Rust` · `HuggingFace`
+🛠️ `Python` · `PyTorch` · `R` · `Rust` · `GO` · `HuggingFace`
 
 ---
 
