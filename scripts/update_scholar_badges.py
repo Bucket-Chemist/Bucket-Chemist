@@ -28,27 +28,36 @@ BADGE_OUTPUT_DIR = Path(os.environ.get("BADGE_OUTPUT_DIR", "figs/scholar_badges"
 
 
 def fetch_with_scholarly(user_id: str) -> dict:
-    """Primary method: use the scholarly library."""
+    """Fallback method: use the scholarly library."""
     from scholarly import scholarly
+    import signal
 
-    print("  [scholarly] Looking up author...")
-    author = scholarly.search_author_id(user_id)
+    def timeout_handler(signum, frame):
+        raise TimeoutError("scholarly timed out after 60 seconds")
 
-    if not author:
-        raise ValueError(f"No author found for ID: {user_id}")
+    signal.signal(signal.SIGALRM, timeout_handler)
+    signal.alarm(60)  # 60 second timeout
 
-    # fill() fetches the full profile including indices
-    author = scholarly.fill(author, sections=["indices"])
+    try:
+        print("  [scholarly] Looking up author...")
+        author = scholarly.search_author_id(user_id)
 
-    citedby = author.get("citedby", 0)
-    h_index = author.get("hindex", 0)
-    i10_index = author.get("i10index", 0)
+        if not author:
+            raise ValueError(f"No author found for ID: {user_id}")
 
-    return {
-        "citations": citedby,
-        "h_index": h_index,
-        "i10_index": i10_index,
-    }
+        author = scholarly.fill(author, sections=["indices"])
+
+        citedby = author.get("citedby", 0)
+        h_index = author.get("hindex", 0)
+        i10_index = author.get("i10index", 0)
+
+        return {
+            "citations": citedby,
+            "h_index": h_index,
+            "i10_index": i10_index,
+        }
+    finally:
+        signal.alarm(0)  # cancel timeout
 
 
 def fetch_with_requests(user_id: str) -> dict:
@@ -109,23 +118,23 @@ def fetch_with_requests(user_id: str) -> dict:
 
 
 def fetch_scholar_stats(user_id: str) -> dict:
-    """Try scholarly first, fall back to manual scrape."""
+    """Try requests first (fast), fall back to scholarly (slow but robust)."""
     errors = []
 
-    # Method 1: scholarly
+    # Method 1: requests + bs4 (fast)
     try:
-        print("Method 1: scholarly library")
-        return fetch_with_scholarly(user_id)
-    except Exception as e:
-        errors.append(f"scholarly: {e}")
-        print(f"  ✗ Failed: {e}")
-
-    # Method 2: requests + bs4
-    try:
-        print("Method 2: requests + BeautifulSoup")
+        print("Method 1: requests + BeautifulSoup")
         return fetch_with_requests(user_id)
     except Exception as e:
         errors.append(f"requests: {e}")
+        print(f"  ✗ Failed: {e}")
+
+    # Method 2: scholarly (slower, but handles anti-bot better)
+    try:
+        print("Method 2: scholarly library (this may take a minute...)")
+        return fetch_with_scholarly(user_id)
+    except Exception as e:
+        errors.append(f"scholarly: {e}")
         print(f"  ✗ Failed: {e}")
 
     # Both failed
