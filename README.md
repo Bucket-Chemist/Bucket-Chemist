@@ -1,4 +1,4 @@
-# Hey, I'm BucketChemist 👋
+# Hey, I'm Bucket Chemist 👋
 
 ### Bioinformatician turned AI Systems Engineer
 
