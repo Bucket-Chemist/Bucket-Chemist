@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96.19999999999999" height="20" role="img" aria-label="i10-index: 11">
+  <title>i10-index: 11</title>
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <clipPath id="r">
+    <rect width="96.19999999999999" height="20" rx="3" fill="#fff"/>
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="71.19999999999999" height="20" fill="#555"/>
+    <rect x="71.19999999999999" width="25.0" height="20" fill="#ee9b00"/>
+    <rect width="96.19999999999999" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="11">
+    <text aria-hidden="true" x="35.599999999999994" y="15" fill="#010101" fill-opacity=".3">i10-index</text>
+    <text x="35.599999999999994" y="14" fill="#fff">i10-index</text>
+    <text aria-hidden="true" x="83.69999999999999" y="15" fill="#010101" fill-opacity=".3">11</text>
+    <text x="83.69999999999999" y="14" fill="#fff">11</text>
+  </g>
+</svg>
