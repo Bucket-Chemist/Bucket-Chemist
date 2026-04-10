@@ -37,5 +37,3 @@
   <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="./figs/scholar_badges/h_index.svg" alt="h-index" /></a>
   <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="./figs/scholar_badges/i10_index.svg" alt="i10-index" /></a>
 </p>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bucket-Chemist&show_icons=true&theme=default)](https://github.com/Bucket-Chemist)
