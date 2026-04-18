@@ -1,4 +1,4 @@
-# Hey, I'm Bucket Chemist 👋
+# Hey, I'm Dokter Smol 👋
 
 ### Bioinformatician turned AI Systems Engineer
 
