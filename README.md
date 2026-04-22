@@ -22,6 +22,11 @@
 | **goYoke** | Agentic orchestration framework - release coming (very) soon | ![stealth](https://img.shields.io/badge/version-stealth-black?style=flat-square) | ![stealth](https://img.shields.io/badge/status-stealth-black?style=flat-square) |
 | **██████** | A versatile, consumer-grade AI OS - building in stealth | ![stealth](https://img.shields.io/badge/version-stealth-black?style=flat-square) | ![stealth](https://img.shields.io/badge/status-stealth-black?style=flat-square) |
 
+### Currently maintaining
+| Project | Stack | Deployment |
+|---------|-------|------------|
+| [**australasiancorefacilities.org**](https://australasiancorefacilities.org) | `TypeScript` · `React` · `Tailwind CSS` | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+
 ---
 
 <p align="center">
