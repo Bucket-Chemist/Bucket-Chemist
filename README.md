@@ -19,7 +19,7 @@
 | Project | What it does | Version | Status |
 |---------|-------------|---------|--------|
 | [**MultiScholaR**](https://github.com/APAF-bioinformatics/MultiScholaR) | End-to-end multi-omics analysis pipeline in R | ![GitHub Release](https://img.shields.io/github/v/release/APAF-bioinformatics/MultiScholaR?include_prereleases&sort=semver&style=flat-square&color=blue) | ![Pre/Stable](https://img.shields.io/github/v/release/APAF-bioinformatics/MultiScholaR?style=flat-square&label=stable&color=green) |
-| **goYoke** | Agentic orchestration framework - release coming (very) soon | ![stealth](https://img.shields.io/badge/version-stealth-black?style=flat-square) | ![stealth](https://img.shields.io/badge/status-stealth-black?style=flat-square) |
+| [**goYoke**](https://github.com/Bucket-Chemist/goYoke) | Agentic orchestration framework for Claude Code | ![GitHub Release](https://img.shields.io/github/v/release/Bucket-Chemist/goYoke?style=flat-square&color=blue) | ![status](https://img.shields.io/badge/status-public-green?style=flat-square) |
 | **██████** | A versatile, consumer-grade AI OS - building in stealth | ![stealth](https://img.shields.io/badge/version-stealth-black?style=flat-square) | ![stealth](https://img.shields.io/badge/status-stealth-black?style=flat-square) |
 
 ### Currently maintaining
