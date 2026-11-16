@@ -1,4 +1,4 @@
-# Hey, I'm Dokter Smol 👋
+# Hey, I'm DokterSmol 👋
 
 ### Bioinformatician turned AI Systems Engineer
 
@@ -19,7 +19,7 @@
 | Project | What it does | Version | Status |
 |---------|-------------|---------|--------|
 | [**MultiScholaR**](https://github.com/APAF-bioinformatics/MultiScholaR) | End-to-end multi-omics analysis pipeline in R | ![GitHub Release](https://img.shields.io/github/v/release/APAF-bioinformatics/MultiScholaR?include_prereleases&sort=semver&style=flat-square&color=blue) | ![Pre/Stable](https://img.shields.io/github/v/release/APAF-bioinformatics/MultiScholaR?style=flat-square&label=stable&color=green) |
-| **██████** | A versatile, consumer-grade AI OS - building in stealth | ![stealth](https://img.shields.io/badge/version-stealth-black?style=flat-square) | ![stealth](https://img.shields.io/badge/status-stealth-black?style=flat-square) |
+| **██████** | A versatile, consumer-grade home inference software agentic switchboard - building in stealth | ![stealth](https://img.shields.io/badge/version-stealth-black?style=flat-square) | ![stealth](https://img.shields.io/badge/status-stealth-black?style=flat-square) |
 
 ### Currently maintaining
 | Project | Stack | Deployment |
