@@ -14,6 +14,12 @@
 
 ---
 
+### Core contributor
+
+| Project | What it does | Where |
+|---------|-------------|-------|
+| [**Radiance**](https://codeberg.org/DokterSmol/radiance) | Inference server for AMD GPUs in C++ and HIP, serving language, image, video, speech and music models through OpenAI-, Anthropic- and llama-server-compatible APIs | [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=flat-square&logo=codeberg&logoColor=white)](https://codeberg.org/DokterSmol) |
+
 ### Currently building
 
 | Project | What it does | Version | Status |
@@ -37,12 +43,13 @@
   <a href="https://scholar.google.com/citations?user=HMfqWHsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/william-klare-phd-7558997a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://www.researchgate.net/profile/William-Klare"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>&nbsp;&nbsp;
-  <a href="https://orcid.org/0000-0002-1490-9704"> <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID alt="ORCID" /></a>
+  <a href="https://orcid.org/0000-0002-1490-9704"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>&nbsp;&nbsp;
+  <a href="https://codeberg.org/DokterSmol"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg" /></a>
 </p>
 
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="./figs/scholar_badges/citations.svg" alt="Citations" /></a>
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="./figs/scholar_badges/h_index.svg" alt="h-index" /></a>
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="./figs/scholar_badges/i10_index.svg" alt="i10-index" /></a>
+  <a href="https://scholar.google.com/citations?user=HMfqWHsAAAAJ&hl=en"><img src="./figs/scholar_badges/citations.svg" alt="Citations" /></a>
+  <a href="https://scholar.google.com/citations?user=HMfqWHsAAAAJ&hl=en"><img src="./figs/scholar_badges/h_index.svg" alt="h-index" /></a>
+  <a href="https://scholar.google.com/citations?user=HMfqWHsAAAAJ&hl=en"><img src="./figs/scholar_badges/i10_index.svg" alt="i10-index" /></a>
 </p>
