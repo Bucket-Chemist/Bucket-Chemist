@@ -1,16 +1,15 @@
-# Hey, I'm DokterSmol 👋
+# DokterSmol
 
-### Bioinformatician turned AI Systems Engineer
+### Bioinformatician | Research Software Engineer | AI Systems Engineer
 
----
+My day job is multi-omics research (genomics, transcriptomics, proteomics, metabolomics) and building the software that research runs on. Outside of that I fine-tune and post-train open-source models, build the tooling and harnesses around them, and contribute to the inference engines that run them.
 
-🧬 **Multi-omics** — genomics, transcriptomics, proteomics, metabolomics... if it ends in *-omics*, it's fair game
+- **Multi-omics:** analysis pipelines and methods, mainly proteomics and mass spectrometry
+- **Model work:** fine-tuning and post-training dense, MoE and hybrid architectures
+- **Inference:** core contributor to Radiance, an inference server for AMD GPUs
+- **Agent tooling:** harnesses and orchestration for coding agents
 
-🧠 **AI Systems** — fine-tuning dense, MoE, and hybrid architectures to fit real-world problems
-
-🤖 **Agentic Systems** — building tools and harnesses that let models do the heavy lifting
-
-🛠️ `Python` · `PyTorch` · `R` · `Rust` · `GO` · `HuggingFace`
+`Python` · `PyTorch` · `R` · `Rust` · `Go` · `C++` · `HIP` · `HuggingFace`
 
 ---
 
