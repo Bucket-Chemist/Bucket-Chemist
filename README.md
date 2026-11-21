@@ -44,8 +44,10 @@ My day job is multi-omics research (genomics, transcriptomics, proteomics, metab
   <a href="https://www.linkedin.com/in/william-klare-phd-7558997a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://www.researchgate.net/profile/William-Klare"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>&nbsp;&nbsp;
   <a href="https://orcid.org/0000-0002-1490-9704"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>&nbsp;&nbsp;
-  <a href="https://codeberg.org/DokterSmol"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg" /></a>
+  <a href="https://codeberg.org/DokterSmol"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg" /></a>&nbsp;&nbsp;
+  <a href="https://huggingface.co/doktersmol"><img src="https://img.shields.io/badge/Hugging_Face-FFFFFF?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /></a>
 </p>
+
 
 
 <p align="center">
